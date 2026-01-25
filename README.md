@@ -13,6 +13,7 @@ I currently pursue my Master’s degree at Wuhan University while collaborating 
 # 🌟 Achievements
 
 • 🏅 Gold Medal for securing the highest grades in my department  
+• 🌍 Outstanding International Student Award from the School of Computer Science, Wuhan University
 • 🥈 Silver Medalist in the Kaggle Machine Learning and Data Science track  
 • 🏆 Winner of the OpenDoor Olympiad in the Data Science and AI track  
 • 📊 Recognized as a Dataset and Notebook Expert on Kaggle  
